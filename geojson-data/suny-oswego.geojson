@@ -1,0 +1,1217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7952805",
+        "addr:city": "Oswego",
+        "addr:housenumber": 10,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Onondaga Circle",
+        "building": "university",
+        "gnis:feature_id": 2436249,
+        "name": "Oneida Hall",
+        "nysgissam:nysaddresspointid": "OSWE044635",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5496038,
+          43.4494837
+        ]
+      },
+      "id": "relation/7952805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7952806",
+        "addr:city": "Oswego",
+        "addr:housenumber": 20,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Cayuga Circle",
+        "building": "university",
+        "gnis:feature_id": 2436252,
+        "name": "Cayuga Hall",
+        "nysgissam:nysaddresspointid": "OSWE046107",
+        "nysgissam:review": "no matching street nearby",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5485769,
+          43.4509854
+        ]
+      },
+      "id": "relation/7952806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13983893",
+        "building": "university",
+        "name": "Sheldon Hall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5360977,
+          43.4543507
+        ]
+      },
+      "id": "relation/13983893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498300",
+        "addr:city": "Oswego",
+        "addr:housenumber": 19,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Union Road",
+        "building": "university",
+        "ele": 87,
+        "gnis:feature_id": 2436262,
+        "name": "Cooper Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5422291,
+          43.4524786
+        ]
+      },
+      "id": "way/262498300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498301",
+        "addr:city": "Oswego",
+        "addr:housenumber": 72,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sweet Road",
+        "addr:unit": 403,
+        "building": "university",
+        "ele": 80,
+        "gnis:feature_id": 2436256,
+        "name": "Culkin Hall",
+        "nysgissam:nysaddresspointid": "OSWE040024;OSWE067989",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5441881,
+          43.4513868
+        ]
+      },
+      "id": "way/262498301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498302",
+        "addr:city": "Oswego",
+        "addr:housenumber": 25,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Union Road",
+        "building": "dormitory",
+        "ele": 89,
+        "gnis:feature_id": 2436263,
+        "name": "Funnelle Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5416546,
+          43.4525108
+        ]
+      },
+      "id": "way/262498302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498303",
+        "addr:city": "Oswego",
+        "addr:housenumber": 15,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Union Road",
+        "building": "dormitory",
+        "ele": 85,
+        "gnis:feature_id": 2436261,
+        "name": "Hart Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5427926,
+          43.4524657
+        ]
+      },
+      "id": "way/262498303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498304",
+        "addr:city": "Oswego",
+        "addr:housenumber": 5,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Union Road",
+        "addr:unit": "PP",
+        "building": "university",
+        "ele": 81,
+        "gnis:feature_id": 2436258,
+        "name": "Hewitt Union",
+        "nysgissam:nysaddresspointid": "OSWE066370;OSWE040025",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5441135,
+          43.4524339
+        ]
+      },
+      "id": "way/262498304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498305",
+        "addr:city": "Oswego",
+        "addr:housenumber": 67,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "university",
+        "ele": 82,
+        "gnis:feature_id": 2436259,
+        "name": "Lanigan Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5449146,
+          43.4537268
+        ]
+      },
+      "id": "way/262498305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498306",
+        "addr:city": "Oswego",
+        "addr:housenumber": 71,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "university",
+        "ele": 79,
+        "gnis:feature_id": 2436257,
+        "name": "Mahar Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5456291,
+          43.4530895
+        ]
+      },
+      "id": "way/262498306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498307",
+        "addr:city": "Oswego",
+        "addr:housenumber": 59,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "amenity": "library",
+        "building": "yes",
+        "ele": 83,
+        "gnis:feature_id": 2436260,
+        "name": "Penfield Library",
+        "operator": "State University of New York at Oswego",
+        "operator:type": "university",
+        "operator:wikidata": "Q7603627",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5439632,
+          43.4537601
+        ]
+      },
+      "id": "way/262498307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262498309",
+        "addr:city": "Oswego",
+        "addr:housenumber": 71,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sweet Road",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "gnis:feature_id": 2436255,
+        "name": "Tyler Hall",
+        "nysgissam:nysaddresspointid": "OSWE040026",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5453352,
+          43.4518036
+        ]
+      },
+      "id": "way/262498309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262511269",
+        "addr:city": "Oswego",
+        "addr:housenumber": 315,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Washington Boulevard",
+        "building": "university",
+        "ele": 86,
+        "gnis:feature_id": 2436280,
+        "name": "Marano Campus Center",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5420437,
+          43.453957
+        ]
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262511271",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Swetman Gym",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5410011,
+          43.4547348
+        ]
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262511272",
+        "addr:city": "Oswego",
+        "addr:housenumber": "25-27",
+        "addr:postcode": 13126,
+        "addr:street": "Centennial Drive",
+        "building": "university",
+        "name": "Poucher Hall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.539668,
+          43.4548311
+        ]
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262511277",
+        "addr:city": "Oswego",
+        "addr:housenumber": 23,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Centennial Drive",
+        "building": "university",
+        "ele": 91,
+        "gnis:feature_id": 2436264,
+        "name": "Marano Campus Center",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5407041,
+          43.4543755
+        ]
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262513718",
+        "addr:city": "Oswego",
+        "addr:housenumber": 40,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "amenity": "doctors",
+        "building": "university",
+        "gnis:feature_id": 2436266,
+        "healthcare": "doctor",
+        "name": "Mary Walker Health Center",
+        "nysgissam:nysaddresspointid": "OSWE040034",
+        "phone": "+1 315 312 4100",
+        "website": "https://www.oswego.edu/walker-health-center/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5429202,
+          43.4557487
+        ]
+      },
+      "id": "way/262513718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262545850",
+        "addr:city": "Oswego",
+        "addr:housenumber": 38,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Centennial Drive",
+        "building": "yes",
+        "ele": 89,
+        "gnis:feature_id": 2436274,
+        "name": "Lee Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5381594,
+          43.4561265
+        ]
+      },
+      "id": "way/262545850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262545851",
+        "addr:city": "Oswego",
+        "addr:housenumber": "28-30",
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Takamine Street",
+        "building": "university",
+        "description": "Renovated, expanded, and renamed. Formerly Piez Hall.",
+        "ele": 93,
+        "gnis:feature_id": 2436273,
+        "name": "Shineman Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5385779,
+          43.4549777
+        ]
+      },
+      "id": "way/262545851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262545854",
+        "addr:city": "Oswego",
+        "addr:housenumber": 24,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Takamine Street",
+        "building": "yes",
+        "ele": 94,
+        "gnis:feature_id": 2436275,
+        "name": "Wilber Hall",
+        "source": "USGS Geonames",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5374653,
+          43.4552091
+        ]
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557130225",
+        "addr:city": "Oswego",
+        "addr:housenumber": 20,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Onondaga Circle",
+        "building": "university",
+        "building:levels": 10,
+        "gnis:feature_id": 2436250,
+        "name": "Onondaga Hall",
+        "nysgissam:nysaddresspointid": "OSWE044636",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5495282,
+          43.450479
+        ]
+      },
+      "id": "way/557130225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557130228",
+        "addr:city": "Oswego",
+        "addr:housenumber": 47,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Cayuga Circle",
+        "building": "university",
+        "gnis:feature_id": 2436254,
+        "name": "Seneca Hall",
+        "nysgissam:nysaddresspointid": "OSWE046108",
+        "nysgissam:review": "no matching street nearby",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5473937,
+          43.4513151
+        ]
+      },
+      "id": "way/557130228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557130240",
+        "addr:city": "Oswego",
+        "addr:housenumber": "130 A",
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Iroquois Trail",
+        "building": "university",
+        "gnis:feature_id": 2436253,
+        "name": "Pathfinder Hall",
+        "nysgissam:nysaddresspointid": "OSWE037942",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5477719,
+          43.4506649
+        ]
+      },
+      "id": "way/557130240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557130259",
+        "addr:city": "Oswego",
+        "addr:housenumber": 16,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Onondaga Circle",
+        "building": "university",
+        "gnis:feature_id": 2436251,
+        "name": "Littlepage Hall",
+        "nysgissam:nysaddresspointid": "OSWE052946",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5487797,
+          43.4499768
+        ]
+      },
+      "id": "way/557130259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/694282431",
+        "addr:city": "Oswego",
+        "addr:housenumber": 32,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sheldon Avenue",
+        "building": "university",
+        "name": "Rich Hall",
+        "nysgissam:nysaddresspointid": "OSWE041945",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5352733,
+          43.455507
+        ]
+      },
+      "id": "way/694282431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/694282432",
+        "addr:city": "Oswego",
+        "addr:housenumber": 22,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Takamine Street",
+        "building": "university",
+        "name": "Park Hall",
+        "nysgissam:nysaddresspointid": "OSWE043674",
+        "nysgissam:review": "no matching street nearby",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5368234,
+          43.4552269
+        ]
+      },
+      "id": "way/694282432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696238248",
+        "addr:city": "Oswego",
+        "addr:housenumber": 30,
+        "addr:postcode": 13126,
+        "addr:street": "Barns Drive",
+        "building": "university",
+        "name": "Laker Hall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5355402,
+          43.4462006
+        ]
+      },
+      "id": "way/696238248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698093490",
+        "amenity": "shelter",
+        "bench": "yes",
+        "building": "yes",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Romney Lot Shelter",
+        "network": 11,
+        "operator": "Centro",
+        "shelter_type": "public_transport",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5343594,
+          43.4500144
+        ]
+      },
+      "id": "way/698093490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698093517",
+        "addr:city": "Oswego",
+        "addr:housenumber": 53,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sheldon Avenue",
+        "building": "dormitory",
+        "name": "Mackin Complex",
+        "year_of_construction": 1951,
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5343022,
+          43.4547693
+        ]
+      },
+      "id": "way/698093517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698093518",
+        "addr:city": "Oswego",
+        "addr:housenumber": 49,
+        "addr:postcode": 13126,
+        "addr:street": "Sheldon Avenue",
+        "building": "dormitory",
+        "name": "Lonis Hall",
+        "@geometry": "center",
+        "gnis:feature_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5342009,
+          43.4551447
+        ]
+      },
+      "id": "way/698093518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698093519",
+        "addr:city": "Oswego",
+        "addr:housenumber": 57,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sheldon Avenue",
+        "addr:unit": "A",
+        "building": "dormitory",
+        "name": "Moreland Hall",
+        "nysgissam:nysaddresspointid": "OSWE041948;OSWE041949;OSWE066892",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5343524,
+          43.454271
+        ]
+      },
+      "id": "way/698093519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698934300",
+        "addr:city": "Oswego",
+        "addr:housenumber": 20,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "dormitory",
+        "name": "Johnson Hall",
+        "nysgissam:nysaddresspointid": "OSWE040028",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5379858,
+          43.4579488
+        ]
+      },
+      "id": "way/698934300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698934301",
+        "addr:city": "Oswego",
+        "addr:housenumber": 24,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "university",
+        "name": "Lakeside Dining Hall",
+        "nysgissam:nysaddresspointid": "OSWE040027",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5386134,
+          43.4575121
+        ]
+      },
+      "id": "way/698934301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698934302",
+        "addr:city": "Oswego",
+        "addr:housenumber": 28,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "dormitory",
+        "name": "Riggs Hall",
+        "nysgissam:nysaddresspointid": "OSWE040029",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5394314,
+          43.4572897
+        ]
+      },
+      "id": "way/698934302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698934316",
+        "addr:city": "Oswego",
+        "addr:housenumber": 30,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "dormitory",
+        "name": "Waterbury Hall",
+        "nysgissam:nysaddresspointid": "OSWE040032",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5408277,
+          43.4566147
+        ]
+      },
+      "id": "way/698934316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698934317",
+        "addr:city": "Oswego",
+        "addr:housenumber": 34,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Rudolph Road",
+        "building": "dormitory",
+        "name": "Scales Hall",
+        "nysgissam:nysaddresspointid": "OSWE040033",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5418658,
+          43.4561444
+        ]
+      },
+      "id": "way/698934317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833619635",
+        "addr:city": "Oswego",
+        "addr:housenumber": 4,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Takamine Street",
+        "building": "university",
+        "nysgissam:nysaddresspointid": "OSWE041944",
+        "nysgissam:review": "no matching street nearby",
+        "@geometry": "center",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5353273,
+          43.4552019
+        ]
+      },
+      "id": "way/833619635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833619636",
+        "building": "roof",
+        "layer": 1,
+        "@geometry": "center",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5354201,
+          43.455367
+        ]
+      },
+      "id": "way/833619636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833619637",
+        "addr:city": "Oswego",
+        "addr:housenumber": 45,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Sheldon Avenue",
+        "building": "yes",
+        "nysgissam:nysaddresspointid": "OSWE041946",
+        "@geometry": "center",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5343025,
+          43.4555821
+        ]
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833621701",
+        "building": "yes",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5334205,
+          43.4453845
+        ]
+      },
+      "id": "way/833621701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833621875",
+        "addr:city": "Oswego",
+        "addr:housenumber": 78,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Mollison Street",
+        "building": "yes",
+        "nysgissam:nysaddresspointid": "OSWE037944",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5379075,
+          43.447591
+        ]
+      },
+      "id": "way/833621875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833622304",
+        "building": "yes",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53717,
+          43.447614
+        ]
+      },
+      "id": "way/833622304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833622412",
+        "building": "yes",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.536864,
+          43.448037
+        ]
+      },
+      "id": "way/833622412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833623172",
+        "addr:city": "Oswego",
+        "addr:housenumber": 28,
+        "addr:postcode": 13126,
+        "addr:state": "NY",
+        "addr:street": "Mollison Street",
+        "building": "yes",
+        "nysgissam:nysaddresspointid": "OSWE042762",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.534806,
+          43.447852
+        ]
+      },
+      "id": "way/833623172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833623873",
+        "building": "yes",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.532875,
+          43.445361
+        ]
+      },
+      "id": "way/833623873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833623956",
+        "building": "yes",
+        "source:data": "https://gis.ny.gov/gisdata",
+        "source:imagery": "ESRI Sat & NYS Sat Imagery",
+        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5348565,
+          43.449862
+        ]
+      },
+      "id": "way/833623956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929425664",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5370889,
+          43.4550837
+        ]
+      },
+      "id": "way/929425664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929425666",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5379154,
+          43.4551386
+        ]
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929425667",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5376181,
+          43.4553333
+        ]
+      },
+      "id": "way/929425667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929425699",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5390381,
+          43.4574794
+        ]
+      },
+      "id": "way/929425699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929425700",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5382667,
+          43.4577381
+        ]
+      },
+      "id": "way/929425700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986523442",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5440119,
+          43.4555366
+        ]
+      },
+      "id": "way/986523442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987042130",
+        "building": "shed",
+        "emergency": "ambulance_station",
+        "name": "SAVAC of SUNY Oswego",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5338242,
+          43.454668
+        ]
+      },
+      "id": "way/987042130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125993197",
+        "amenity": "police",
+        "building": "yes",
+        "layer": 1,
+        "name": "University Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5477992,
+          43.450607
+        ]
+      },
+      "id": "way/1125993197"
+    }
+  ]
+}
