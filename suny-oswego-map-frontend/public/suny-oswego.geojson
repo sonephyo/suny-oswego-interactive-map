@@ -13,19 +13,14 @@
         "building": "university",
         "gnis:feature_id": 2436249,
         "name": "Oneida Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE044635",
         "type": "multipolygon",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5496038,
-          43.4494837
-        ]
+        "coordinates": [-76.5496038, 43.4494837]
       },
       "id": "relation/7952805"
     },
@@ -41,9 +36,7 @@
         "building": "university",
         "gnis:feature_id": 2436252,
         "name": "Cayuga Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE046107",
         "nysgissam:review": "no matching street nearby",
         "type": "multipolygon",
@@ -51,10 +44,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5485769,
-          43.4509854
-        ]
+        "coordinates": [-76.5485769, 43.4509854]
       },
       "id": "relation/7952806"
     },
@@ -64,18 +54,13 @@
         "@id": "relation/13983893",
         "building": "university",
         "name": "Sheldon Hall",
-        "category_tags": [
-          "administration"
-        ],
+        "category_tags": ["administration"],
         "type": "multipolygon",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5360977,
-          43.4543507
-        ]
+        "coordinates": [-76.5360977, 43.4543507]
       },
       "id": "relation/13983893"
     },
@@ -92,18 +77,13 @@
         "ele": 87,
         "gnis:feature_id": 2436262,
         "name": "Cooper Dining Hall",
-        "category_tags": [
-          "dining"
-        ],
+        "category_tags": ["dining"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5422291,
-          43.4524786
-        ]
+        "coordinates": [-76.5422291, 43.4524786]
       },
       "id": "way/262498300"
     },
@@ -121,20 +101,14 @@
         "ele": 80,
         "gnis:feature_id": 2436256,
         "name": "Culkin Hall",
-        "category_tags": [
-          "administration",
-          "services"
-        ],
+        "category_tags": ["administration", "services"],
         "nysgissam:nysaddresspointid": "OSWE040024;OSWE067989",
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5441881,
-          43.4513868
-        ]
+        "coordinates": [-76.5441881, 43.4513868]
       },
       "id": "way/262498301"
     },
@@ -151,18 +125,13 @@
         "ele": 89,
         "gnis:feature_id": 2436263,
         "name": "Funnelle Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5416546,
-          43.4525108
-        ]
+        "coordinates": [-76.5416546, 43.4525108]
       },
       "id": "way/262498302"
     },
@@ -179,18 +148,13 @@
         "ele": 85,
         "gnis:feature_id": 2436261,
         "name": "Hart Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5427926,
-          43.4524657
-        ]
+        "coordinates": [-76.5427926, 43.4524657]
       },
       "id": "way/262498303"
     },
@@ -208,19 +172,14 @@
         "ele": 81,
         "gnis:feature_id": 2436258,
         "name": "Hewitt Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "nysgissam:nysaddresspointid": "OSWE066370;OSWE040025",
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5441135,
-          43.4524339
-        ]
+        "coordinates": [-76.5441135, 43.4524339]
       },
       "id": "way/262498304"
     },
@@ -237,18 +196,13 @@
         "ele": 82,
         "gnis:feature_id": 2436259,
         "name": "Lanigan Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5449146,
-          43.4537268
-        ]
+        "coordinates": [-76.5449146, 43.4537268]
       },
       "id": "way/262498305"
     },
@@ -265,18 +219,13 @@
         "ele": 79,
         "gnis:feature_id": 2436257,
         "name": "Mahar Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5456291,
-          43.4530895
-        ]
+        "coordinates": [-76.5456291, 43.4530895]
       },
       "id": "way/262498306"
     },
@@ -294,9 +243,7 @@
         "ele": 83,
         "gnis:feature_id": 2436260,
         "name": "Penfield Library",
-        "category_tags": [
-          "library"
-        ],
+        "category_tags": ["library"],
         "operator": "State University of New York at Oswego",
         "operator:type": "university",
         "operator:wikidata": "Q7603627",
@@ -305,10 +252,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5439632,
-          43.4537601
-        ]
+        "coordinates": [-76.5439632, 43.4537601]
       },
       "id": "way/262498307"
     },
@@ -325,18 +269,13 @@
         "building": "yes",
         "gnis:feature_id": 2436255,
         "name": "Tyler Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "nysgissam:nysaddresspointid": "OSWE040026",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5453352,
-          43.4518036
-        ]
+        "coordinates": [-76.5453352, 43.4518036]
       },
       "id": "way/262498309"
     },
@@ -353,20 +292,13 @@
         "ele": 86,
         "gnis:feature_id": 2436280,
         "name": "Marano Campus Center",
-        "category_tags": [
-          "services",
-          "administration",
-          "academic"
-        ],
+        "category_tags": ["services", "administration", "academic"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5420437,
-          43.453957
-        ]
+        "coordinates": [-76.5407143, 43.4542909]
       },
       "id": 12
     },
@@ -377,17 +309,12 @@
         "building": "yes",
         "leisure": "sports_hall",
         "name": "Swetman Gym",
-        "category_tags": [
-          "recreation"
-        ],
+        "category_tags": ["recreation"],
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5410011,
-          43.4547348
-        ]
+        "coordinates": [-76.5410011, 43.4547348]
       },
       "id": 13
     },
@@ -401,17 +328,12 @@
         "addr:street": "Centennial Drive",
         "building": "university",
         "name": "Poucher Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.539668,
-          43.4548311
-        ]
+        "coordinates": [-76.539668, 43.4548311]
       },
       "id": 14
     },
@@ -429,9 +351,7 @@
         "gnis:feature_id": 2436266,
         "healthcare": "doctor",
         "name": "Mary Walker Health Center",
-        "category_tags": [
-          "services"
-        ],
+        "category_tags": ["services"],
         "nysgissam:nysaddresspointid": "OSWE040034",
         "phone": "+1 315 312 4100",
         "website": "https://www.oswego.edu/walker-health-center/",
@@ -439,10 +359,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5429202,
-          43.4557487
-        ]
+        "coordinates": [-76.5429202, 43.4557487]
       },
       "id": "way/262513718"
     },
@@ -459,18 +376,13 @@
         "ele": 89,
         "gnis:feature_id": 2436274,
         "name": "Lee Hall",
-        "category_tags": [
-          "recreation"
-        ],
+        "category_tags": ["recreation"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5381594,
-          43.4561265
-        ]
+        "coordinates": [-76.5381594, 43.4561265]
       },
       "id": "way/262545850"
     },
@@ -488,18 +400,13 @@
         "ele": 93,
         "gnis:feature_id": 2436273,
         "name": "Shineman Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5385779,
-          43.4549777
-        ]
+        "coordinates": [-76.5385779, 43.4549777]
       },
       "id": "way/262545851"
     },
@@ -516,18 +423,13 @@
         "ele": 94,
         "gnis:feature_id": 2436275,
         "name": "Wilber Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "source": "USGS Geonames",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5374653,
-          43.4552091
-        ]
+        "coordinates": [-76.537484, 43.4549612]
       },
       "id": 19
     },
@@ -544,18 +446,13 @@
         "building:levels": 10,
         "gnis:feature_id": 2436250,
         "name": "Onondaga Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE044636",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5495282,
-          43.450479
-        ]
+        "coordinates": [-76.5495282, 43.450479]
       },
       "id": "way/557130225"
     },
@@ -571,19 +468,14 @@
         "building": "university",
         "gnis:feature_id": 2436254,
         "name": "Seneca Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE046108",
         "nysgissam:review": "no matching street nearby",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5473937,
-          43.4513151
-        ]
+        "coordinates": [-76.5473937, 43.4513151]
       },
       "id": "way/557130228"
     },
@@ -599,18 +491,13 @@
         "building": "university",
         "gnis:feature_id": 2436253,
         "name": "Pathfinder Hall",
-        "category_tags": [
-          "dining"
-        ],
+        "category_tags": ["dining"],
         "nysgissam:nysaddresspointid": "OSWE037942",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5477719,
-          43.4506649
-        ]
+        "coordinates": [-76.5477719, 43.4506649]
       },
       "id": "way/557130240"
     },
@@ -626,18 +513,13 @@
         "building": "university",
         "gnis:feature_id": 2436251,
         "name": "Littlepage Hall",
-        "category_tags": [
-          "dining"
-        ],
+        "category_tags": ["dining"],
         "nysgissam:nysaddresspointid": "OSWE052946",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5487797,
-          43.4499768
-        ]
+        "coordinates": [-76.5487797, 43.4499768]
       },
       "id": "way/557130259"
     },
@@ -652,18 +534,13 @@
         "addr:street": "Sheldon Avenue",
         "building": "university",
         "name": "Rich Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "nysgissam:nysaddresspointid": "OSWE041945",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5352733,
-          43.455507
-        ]
+        "coordinates": [-76.5352733, 43.455507]
       },
       "id": "way/694282431"
     },
@@ -678,19 +555,14 @@
         "addr:street": "Takamine Street",
         "building": "university",
         "name": "Park Hall",
-        "category_tags": [
-          "academic"
-        ],
+        "category_tags": ["academic"],
         "nysgissam:nysaddresspointid": "OSWE043674",
         "nysgissam:review": "no matching street nearby",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5368234,
-          43.4552269
-        ]
+        "coordinates": [-76.5368234, 43.4552269]
       },
       "id": "way/694282432"
     },
@@ -704,17 +576,12 @@
         "addr:street": "Barns Drive",
         "building": "university",
         "name": "Laker Hall",
-        "category_tags": [
-          "recreation"
-        ],
+        "category_tags": ["recreation"],
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5355402,
-          43.4462006
-        ]
+        "coordinates": [-76.5355402, 43.4462006]
       },
       "id": "way/696238248"
     },
@@ -729,18 +596,13 @@
         "addr:street": "Sheldon Avenue",
         "building": "dormitory",
         "name": "Mackin Complex",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "year_of_construction": 1951,
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5343022,
-          43.4547693
-        ]
+        "coordinates": [-76.5343022, 43.4547693]
       },
       "id": "way/698093517"
     },
@@ -754,18 +616,13 @@
         "addr:street": "Sheldon Avenue",
         "building": "dormitory",
         "name": "Lonis Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "@geometry": "center",
         "gnis:feature_id": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5342009,
-          43.4551447
-        ]
+        "coordinates": [-76.5342009, 43.4551447]
       },
       "id": "way/698093518"
     },
@@ -781,18 +638,13 @@
         "addr:unit": "A",
         "building": "dormitory",
         "name": "Moreland Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE041948;OSWE041949;OSWE066892",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5343524,
-          43.454271
-        ]
+        "coordinates": [-76.5343524, 43.454271]
       },
       "id": "way/698093519"
     },
@@ -807,18 +659,13 @@
         "addr:street": "Rudolph Road",
         "building": "dormitory",
         "name": "Johnson Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE040028",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5379858,
-          43.4579488
-        ]
+        "coordinates": [-76.5379858, 43.4579488]
       },
       "id": "way/698934300"
     },
@@ -833,18 +680,13 @@
         "addr:street": "Rudolph Road",
         "building": "university",
         "name": "Lakeside Dining Hall",
-        "category_tags": [
-          "dining"
-        ],
+        "category_tags": ["dining"],
         "nysgissam:nysaddresspointid": "OSWE040027",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5386134,
-          43.4575121
-        ]
+        "coordinates": [-76.5386134, 43.4575121]
       },
       "id": "way/698934301"
     },
@@ -859,18 +701,13 @@
         "addr:street": "Rudolph Road",
         "building": "dormitory",
         "name": "Riggs Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE040029",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5394314,
-          43.4572897
-        ]
+        "coordinates": [-76.5394314, 43.4572897]
       },
       "id": "way/698934302"
     },
@@ -885,18 +722,13 @@
         "addr:street": "Rudolph Road",
         "building": "dormitory",
         "name": "Waterbury Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE040032",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5408277,
-          43.4566147
-        ]
+        "coordinates": [-76.5408277, 43.4566147]
       },
       "id": "way/698934316"
     },
@@ -911,62 +743,15 @@
         "addr:street": "Rudolph Road",
         "building": "dormitory",
         "name": "Scales Hall",
-        "category_tags": [
-          "residential"
-        ],
+        "category_tags": ["residential"],
         "nysgissam:nysaddresspointid": "OSWE040033",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5418658,
-          43.4561444
-        ]
+        "coordinates": [-76.5418658, 43.4561444]
       },
       "id": "way/698934317"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833619635",
-        "addr:city": "Oswego",
-        "addr:housenumber": 4,
-        "addr:postcode": 13126,
-        "addr:state": "NY",
-        "addr:street": "Takamine Street",
-        "building": "university",
-        "nysgissam:nysaddresspointid": "OSWE041944",
-        "nysgissam:review": "no matching street nearby",
-        "@geometry": "center",
-        "name": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5353273,
-          43.4552019
-        ]
-      },
-      "id": "way/833619635"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833619636",
-        "building": "roof",
-        "layer": 1,
-        "@geometry": "center",
-        "name": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5354201,
-          43.455367
-        ]
-      },
-      "id": "way/833619636"
     },
     {
       "type": "Feature",
@@ -980,35 +765,14 @@
         "building": "yes",
         "nysgissam:nysaddresspointid": "OSWE041946",
         "@geometry": "center",
-        "name": ""
+        "name": "Service Building 20 - Sustainability",
+        "category_tags": ["facility"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5343025,
-          43.4555821
-        ]
+        "coordinates": [-76.5343025, 43.4555821]
       },
       "id": 38
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833621701",
-        "building": "yes",
-        "source:data": "https://gis.ny.gov/gisdata",
-        "source:imagery": "ESRI Sat & NYS Sat Imagery",
-        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5334205,
-          43.4453845
-        ]
-      },
-      "id": "way/833621701"
     },
     {
       "type": "Feature",
@@ -1024,14 +788,13 @@
         "source:data": "https://gis.ny.gov/gisdata",
         "source:imagery": "ESRI Sat & NYS Sat Imagery",
         "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
+        "@geometry": "center",
+        "name": "Service Building 11 - Commissary",
+        "category_tags": ["facility"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5379075,
-          43.447591
-        ]
+        "coordinates": [-76.5379075, 43.447591]
       },
       "id": "way/833621875"
     },
@@ -1043,35 +806,15 @@
         "source:data": "https://gis.ny.gov/gisdata",
         "source:imagery": "ESRI Sat & NYS Sat Imagery",
         "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
+        "@geometry": "center",
+        "name": "Service Building 12 - Maintenance",
+        "category_tags": ["facility"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.53717,
-          43.447614
-        ]
+        "coordinates": [-76.53717, 43.447614]
       },
       "id": "way/833622304"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833622412",
-        "building": "yes",
-        "source:data": "https://gis.ny.gov/gisdata",
-        "source:imagery": "ESRI Sat & NYS Sat Imagery",
-        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.536864,
-          43.448037
-        ]
-      },
-      "id": "way/833622412"
     },
     {
       "type": "Feature",
@@ -1087,150 +830,15 @@
         "source:data": "https://gis.ny.gov/gisdata",
         "source:imagery": "ESRI Sat & NYS Sat Imagery",
         "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
+        "@geometry": "center",
+        "name": "Romney Field House",
+        "category_tags": ["recreation"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.534806,
-          43.447852
-        ]
+        "coordinates": [-76.5347298, 43.4477797]
       },
       "id": "way/833623172"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833623873",
-        "building": "yes",
-        "source:data": "https://gis.ny.gov/gisdata",
-        "source:imagery": "ESRI Sat & NYS Sat Imagery",
-        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.532875,
-          43.445361
-        ]
-      },
-      "id": "way/833623873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833623956",
-        "building": "yes",
-        "source:data": "https://gis.ny.gov/gisdata",
-        "source:imagery": "ESRI Sat & NYS Sat Imagery",
-        "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5348565,
-          43.449862
-        ]
-      },
-      "id": "way/833623956"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/929425664",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5370889,
-          43.4550837
-        ]
-      },
-      "id": "way/929425664"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/929425666",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5379154,
-          43.4551386
-        ]
-      },
-      "id": 47
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/929425667",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5376181,
-          43.4553333
-        ]
-      },
-      "id": "way/929425667"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/929425699",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5390381,
-          43.4574794
-        ]
-      },
-      "id": "way/929425699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/929425700",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5382667,
-          43.4577381
-        ]
-      },
-      "id": "way/929425700"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/986523442",
-        "building": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5440119,
-          43.4555366
-        ]
-      },
-      "id": "way/986523442"
     },
     {
       "type": "Feature",
@@ -1239,17 +847,12 @@
         "building": "shed",
         "emergency": "ambulance_station",
         "name": "SAVAC of SUNY Oswego",
-        "category_tags": [
-          "facility"
-        ],
+        "category_tags": ["facility"],
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5338242,
-          43.454668
-        ]
+        "coordinates": [-76.5338242, 43.454668]
       },
       "id": "way/987042130"
     },
@@ -1261,19 +864,102 @@
         "building": "yes",
         "layer": 1,
         "name": "University Police",
-        "category_tags": [
-          "services"
-        ],
+        "category_tags": ["services"],
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.5477992,
-          43.450607
-        ]
+        "coordinates": [-76.5477992, 43.450607]
       },
       "id": "way/1125993197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rice Creek Field Station",
+        "category_tags": ["academic"]
+      },
+      "geometry": {
+        "coordinates": [-76.54963372796752, 43.42997051585385],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Workforce Innovation & External Relations",
+        "category_tags": ["services", "administration"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5071169, 43.4575553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hewitt Quad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5448589, 43.4531159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deborah F. Stanley Arena & Convocation Hall",
+        "category_tags": ["recreation"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5422655, 43.4541475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Alumni Hall",
+        "category_tags": ["services"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5364699, 43.4533517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shady Shore",
+        "category_tags": ["administration"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5367587, 43.4579905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUNY Oswego's Syracuse Campus",
+        "category_tags": ["academic"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.1527209, 43.0500801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking Services",
+        "category_tags": ["parking", "services"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5403808, 43.4477636]
+      }
     }
   ]
 }
