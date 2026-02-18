@@ -1,6 +1,7 @@
 import Map, { Layer, Source } from "react-map-gl/maplibre";
 import "maplibre-gl/dist/maplibre-gl.css";
-import React from "react";
+import React, { useEffect } from "react";
+import { useMapContext } from "~/context/map-context";
 
 export default function MapSunyOswego() {
   const [viewState, setViewState] = React.useState({
@@ -8,6 +9,7 @@ export default function MapSunyOswego() {
     latitude: 43.45191,
     zoom: 14.5,
   });
+  const { filteredFeatures } = useMapContext();
 
   return (
     <Map
@@ -19,7 +21,10 @@ export default function MapSunyOswego() {
       <Source
         id="suny-oswego-data"
         type="geojson"
-        data={"/suny-oswego.geojson"}
+        data={{
+          type: "FeatureCollection",
+          features: filteredFeatures,
+        }}
       >
         <Layer
           id="campus-points"

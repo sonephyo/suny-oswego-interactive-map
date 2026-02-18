@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Search } from "lucide-react";
+import { useMapContext } from "~/context/map-context";
 
 const CHIPS = [
   "Dining",
@@ -13,13 +14,8 @@ const CHIPS = [
 ];
 
 export default function SearchBar() {
-  const [active, setActive] = useState<string[]>([]);
+  const { active, toggleChip } = useMapContext();
 
-  const toggleChip = (label: string) => {
-    setActive((prev) =>
-      prev.includes(label) ? prev.filter((c) => c !== label) : [...prev, label],
-    );
-  };
   return (
     <div className="absolute top-4 left-1/2 -translate-x-1/2 z-50 w-[90%] max-w-md">
       <div className="bg-white rounded-2xl shadow-md px-4 py-3 flex flex-col gap-2">
@@ -39,7 +35,7 @@ export default function SearchBar() {
               key={chip}
               onClick={() => toggleChip(chip)}
               className={`shrink-0 text-xs px-3 py-1 rounded-full border transition-colors ${
-                active.includes(chip)
+                active.includes(chip.toLowerCase())
                   ? "bg-gray-900 text-white border-gray-900"
                   : "bg-white text-gray-600 border-gray-300"
               }`}
