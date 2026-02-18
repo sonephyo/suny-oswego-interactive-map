@@ -576,7 +576,7 @@
         "addr:street": "Barns Drive",
         "building": "university",
         "name": "Laker Hall",
-        "category_tags": ["recreation"],
+        "category_tags": ["athletic"],
         "@geometry": "center"
       },
       "geometry": {
@@ -832,7 +832,7 @@
         "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
         "@geometry": "center",
         "name": "Romney Field House",
-        "category_tags": ["recreation"]
+        "category_tags": ["athletic"]
       },
       "geometry": {
         "type": "Point",

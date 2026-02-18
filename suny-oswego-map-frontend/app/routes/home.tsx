@@ -1,5 +1,6 @@
 import MapSunyOswego from "~/map/map";
 import type { Route } from "./+types/home";
+import SearchBar from "~/components/SearchBar";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -9,5 +10,10 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  return <MapSunyOswego />;
+  return (
+    <div className="relative w-screen h-screen">
+      <SearchBar />
+      <MapSunyOswego />
+    </div>
+  );
 }
