@@ -136,3 +136,11 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.campus-popup .maplibregl-popup-content {
+  padding: 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 10px 25px -5px rgb(0 0 0 / 0.15), 0 4px 10px -5px rgb(0 0 0 / 0.1);
+  border: 1px solid rgb(0 0 0 / 0.06);
+}

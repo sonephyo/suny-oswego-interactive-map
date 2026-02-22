@@ -1,6 +1,6 @@
 import Map, { Layer, Popup, Source } from "react-map-gl/maplibre";
 import "maplibre-gl/dist/maplibre-gl.css";
-import React, { useRef } from "react";
+import React, { useEffect, useRef } from "react";
 import { useMapContext } from "~/context/map-context";
 import type { MapMouseEvent, MapRef } from "react-map-gl/maplibre";
 
@@ -9,6 +9,7 @@ type SelectedFeature = {
   latitude: number;
   name: string;
   address: string;
+  category_tags: string[];
 };
 
 export default function MapSunyOswego() {
@@ -43,8 +44,16 @@ export default function MapSunyOswego() {
       name: props?.name ?? "Unknown",
       address:
         `${props?.["addr:housenumber"] ?? ""} ${props?.["addr:street"] ?? ""}`.trim(),
+      category_tags:
+        typeof props?.category_tags === "string"
+          ? JSON.parse(props.category_tags)
+          : (props?.category_tags ?? []),
     });
   };
+
+  useEffect(() => {
+    console.log(selected);
+  }, [selected]);
 
   return (
     <Map
@@ -81,12 +90,30 @@ export default function MapSunyOswego() {
           anchor="bottom"
           onClose={() => setSelected(null)}
           closeOnClick={false}
+          maxWidth="280px"
+          className="campus-popup"
         >
-          <div style={{ padding: "8px", minWidth: "150px" }}>
-            <strong>{selected.name}</strong>
-            {selected.address && (
-              <p style={{ margin: "4px 0 0" }}>{selected.address}</p>
-            )}
+          <div className="min-w-50">
+            <div className="bg-[#245c38] px-4 py-3">
+              <p className="text-white font-semibold text-sm leading-snug">
+                {selected.name}
+              </p>
+            </div>
+            <div className="px-4 py-3 space-y-2 bg-white">
+              {selected.address && (
+                <p className="text-xs text-gray-500">{selected.address}</p>
+              )}
+              <div className="flex flex-wrap gap-1">
+                {selected.category_tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="text-xs bg-green-50 text-green-700 border border-green-200 px-2 py-0.5 rounded-full capitalize"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
           </div>
         </Popup>
       )}
