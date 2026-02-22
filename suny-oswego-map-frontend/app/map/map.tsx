@@ -90,19 +90,27 @@ export default function MapSunyOswego() {
           anchor="bottom"
           onClose={() => setSelected(null)}
           closeOnClick={false}
+          closeButton={false}
           maxWidth="280px"
           className="campus-popup"
         >
           <div className="min-w-50">
-            <div className="bg-[#245c38] px-4 py-3">
+            <div className="bg-[#245c38] px-4 py-3 flex items-center justify-between gap-3">
               <p className="text-white font-semibold text-sm leading-snug">
                 {selected.name}
               </p>
+              <button
+                onClick={() => setSelected(null)}
+                className="shrink-0 text-white/70 hover:text-white hover:bg-white/20 rounded p-0.5 transition-colors"
+                aria-label="Close"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18" />
+                  <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+              </button>
             </div>
-            <div className="px-4 py-3 space-y-2 bg-white">
-              {selected.address && (
-                <p className="text-xs text-gray-500">{selected.address}</p>
-              )}
+            <div className="px-4 py-3 space-y-2 bg-white"> 
               <div className="flex flex-wrap gap-1">
                 {selected.category_tags.map((tag) => (
                   <span
